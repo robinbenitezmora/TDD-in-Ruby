@@ -1,4 +1,4 @@
-require_relative '../solver' 
+require_relative '../solver'
 
 # This is a test suite for the solver class
 # Each test is a method that is called by the test runner
@@ -44,7 +44,7 @@ describe Solver do
     end
 
     it 'should return 3628800 for 10' do
-      expect(@solver.factorial(10)).to eq(3628800)
+      expect(@solver.factorial(10)).to eq(3_628_800)
     end
   end
 
@@ -87,11 +87,11 @@ describe Solver do
       expect(@solver.fizzbuzz(30)).to eq('FizzBuzz')
     end
 
-    it 'should return n as string when n is not divisible by 3 or 5' do
+    it 'should return num as string when num is not divisible by 3 or 5' do
       expect(@solver.fizzbuzz(2)).to eq('2')
     end
 
-    it 'should return n as a number when n is not divisible by 3 or 5' do
+    it 'should return num as a number when num is not divisible by 3 or 5' do
       expect(@solver.fizzbuzz(2)).not_to eq(2)
     end
   end
