@@ -57,17 +57,17 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Test Drive Development with Ruby <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+> This is a project to practice test-driven development with Ruby. The project is a simple creation of a class with methods by means of TDD (Test Driven Development).
 
 ## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+### <a name="tech-stack">
+TDD with RSpec
+</a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> TDD is a software development process relying on software requirements being converted to test cases before software is fully developed, and tracking all software development by repeatedly testing the software against all test cases. This is opposed to software being developed first and test cases created later.
 
 <details>
   <summary>Client</summary>
@@ -94,11 +94,11 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+> Our project has the following features:
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **Simplicity**
+- **Clarity**
+- **Team Working**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,13 +116,21 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+> As a developer you can clone the project and run it locally.
 
 To get a local copy up and running, follow these steps.
+
+1) Clone the repository
+2) cd into the project folder
+3) Run `bundle install` to install the required dependencies
+4) Run `rspec` to run the tests
 
 ### Prerequisites
 
 In order to run this project you need:
+
+- Ruby
+- RSpec
 
 <!--
 Example command:
@@ -200,19 +208,18 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+> The next people have been the authors of this project:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@robinbenitezmora](https://github.com/robinbenitezmora)
+- Twitter: [@Mecanico_Robin](https://twitter.com/mecanico_robin)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/robin-benitez-mora/)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@asnganje](https://github.com/asnganje)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdulrahman-nganje-a6436935//)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
