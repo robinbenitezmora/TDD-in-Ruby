@@ -36,7 +36,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Test Drive Development with Ruby <a name="about-project"></a>
 
-> This is a project to practice test-driven development with Ruby. The project is a simple creation of a class with methods by means of TDD (Test Driven Development).
+> This is a project to practice test-driven development with Ruby. The project is a simple creation of a class that will be evaluated by means of TDD (Test Driven Development).
 
 ## 🛠 Built With <a name="built-with"></a>
 
