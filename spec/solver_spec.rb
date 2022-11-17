@@ -9,6 +9,7 @@ require_relative '../solver'
 # Implement the solver class so that all tests pass
 # You can run the tests by running the test runner
 # All tests have passed since the test runner reports 0 failures
+# The test runner will also report the total number of tests and the number of tests that passed
 
 describe Solver do
   before :all do
