@@ -6,6 +6,9 @@ require_relative '../solver'
 # The test runner will also report the total number of tests
 # and the number of tests that passed
 # The first test will fail, because the solver class is not yet implemented
+# Implement the solver class so that all tests pass
+# You can run the tests by running the test runner
+# All tests have passed since the test runner reports 0 failures
 
 describe Solver do
   before :all do
